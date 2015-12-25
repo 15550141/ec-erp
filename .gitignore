@@ -1,0 +1,14 @@
+/.idea
+/ec-erp-common/ec-erp-common.iml
+/ec-erp-common/target
+/ec-erp-dao/ec-erp-dao.iml
+/ec-erp-dao/target
+/ec-erp-domain/ec-erp-domain.iml
+/ec-erp-domain/target
+/ec-erp-manager/ec-erp-manager.iml
+/ec-erp-manager/target
+/ec-erp-service/ec-erp-service.iml
+/ec-erp-service/target
+/ec-erp-web/ec-erp-web.iml
+/ec-erp-web/target
+/ec-erp.iml
